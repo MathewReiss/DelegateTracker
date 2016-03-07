@@ -1,0 +1,48 @@
+{
+    "appKeys": {
+        "BERNIE": 1,
+        "CRUZ": 3,
+        "HILLARY": 0,
+        "KASICH": 5,
+        "RUBIO": 4,
+        "TRUMP": 2,
+        "UNCOMMITTED_D": 7,
+        "UNCOMMITTED_R": 6
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Mathew Reiss",
+    "enableMultiJS": false,
+    "longName": "Delegate Tracker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/delegate_icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/delegate_aplite.png",
+                "name": "SPLASH",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Delegate tracker",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5e85866e-942d-48d7-a219-fe5438305574",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
